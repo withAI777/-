@@ -11,3 +11,5 @@
 #1 先扫描下方任意付款二维码，注意备注任何内容方便核对，然后截图并在telegram上发给我，我会给你下载链接和教程文档。  
 #2 你可以私聊我的telegram进行询问：@cybermusk8或https://t.me/CyberMusk8  
 #3 你也可以加入telegram群组，在群里询问：https://t.me/notonlyseo
+
+
