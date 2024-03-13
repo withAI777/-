@@ -13,6 +13,7 @@
 #3 你也可以加入telegram群组，在群里询问：https://t.me/notonlyseo
 
 ## 目前设定固定汇率7.1，因此700*7.1=4970
+#1 如果使用人数过多，我很难根据每个人不同的需求进行迭代和维护，因此限制前5人购买为700$，之后涨价到1000$。
 
 ![image](https://github.com/withAI777/-/blob/main/%E6%94%B6%E6%AC%BE%E7%A0%81/%E5%BE%AE%E4%BF%A1.jpg)
 ![image](https://github.com/withAI777/-/blob/main/%E6%94%B6%E6%AC%BE%E7%A0%81/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg)
