@@ -1,3 +1,6 @@
+# 请免费加入共创文档[交易所](https://www.yuque.com/g/u41475096/sxyaoc/ma44bz2n9ft34w7z/collaborator/join?token=e7JYbJs4XDYFujIj&source=doc_collaborator#)，任何人都可以自由上架、购买对别人/对自己有用的任何东西，你可以免费赚取额外收入
+![image](https://github.com/withAI777/en_state_demo_video/blob/main/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87/%E4%BA%A4%E6%98%93%E6%89%80%E6%96%87%E6%A1%A3.jpg)
+
 ## 关于项目演示，请查看“[自动写英语州的LandingPage演示视频.mp4](https://github.com/withAI777/-/blob/main/%E8%87%AA%E5%8A%A8%E5%86%99%E8%8B%B1%E8%AF%AD%E5%B7%9E%E7%9A%84LandingPage%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mp4)”
 #1 仅以SDM项目的censor-Landing Page为例做演示，**实际可应用在任何项目上**，只要存在Landing Page系统和写作页面<br>
 #2 由于github文件大小限制，且麦的杂音太大，故暂时删除了视频中的音频，将于近期重录，目前可以看字幕<br>
