@@ -17,6 +17,7 @@
 ![image](https://github.com/withAI777/en_state_demo_video/blob/main/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87/%E7%9F%A5%E8%AF%86%E5%BA%93%E6%A6%82%E8%A7%88.jpg)
 #2 **简单的使用**：使用简单，做完准备工作后你只需要点击打包好的程序，根据提示填入一些内容就可以了
 ![image](https://github.com/withAI777/en_state_demo_video/blob/main/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87/win%E7%A8%8B%E5%BA%8F%E5%9B%BE%E7%89%87.jpg)
+#3 **强大的效率**：只要你想，一天提交3、4000篇都可以，7*24*365天的撰写、提交，机器是不会疲惫的
 
 ## 如何购买
 #1 先扫描下方任意付款二维码，注意备注任何内容方便核对，然后截图并在telegram上发给我，我会给你下载链接和教程文档，整个过程你是**完全匿名**的。<br>
