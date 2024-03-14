@@ -1,6 +1,6 @@
-<div align=center>
-![image](https://github.com/withAI777/en_state_demo_video/blob/eb2e0017ae1debe61090f6b60c25ce18084c592e/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87/logo.png)
-</div>
+<p align = "center">
+<img src="https://github.com/withAI777/en_state_demo_video/blob/eb2e0017ae1debe61090f6b60c25ce18084c592e/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87/logo.png">
+</p>
 
 # 请免费加入共创文档[交易所](https://www.yuque.com/g/u41475096/sxyaoc/collaborator/join?token=oLI3sdKe7WgMn1er&source=book_collaborator#)，任何人都可以自由上架、定价、购买对别人/对自己有用的任何东西，你可以免费赚取额外收入
 #1 [这里](https://www.yuque.com/g/u41475096/sxyaoc/collaborator/join?token=oLI3sdKe7WgMn1er&source=book_collaborator#)会有一些免费项目，欢迎体验
