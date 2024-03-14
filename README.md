@@ -13,9 +13,9 @@
 #4 本项目**只能写state的html lang=en**，如果要写小语种，需要在[交易所](https://www.yuque.com/g/u41475096/sxyaoc/ma44bz2n9ft34w7z/collaborator/join?token=e7JYbJs4XDYFujIj&source=doc_collaborator#)中额外购买其它项目<br>
 
 ## 购买后你可以获得什么？
-#1 完善的售后：除了获取详细的使用教程，你可以自由提出你的需求、反馈bug等
+#1 *完善的售后*：除了获取详细的使用教程，你可以自由提出你的需求、反馈bug等
 ![image](https://github.com/withAI777/en_state_demo_video/blob/main/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87/%E7%9F%A5%E8%AF%86%E5%BA%93%E6%A6%82%E8%A7%88.jpg)
-#2 简单的使用：使用简单，做完准备工作后你只需要点击打包好的程序，根据提示填入一些内容就可以了
+#2 *简单的使用*：使用简单，做完准备工作后你只需要点击打包好的程序，根据提示填入一些内容就可以了
 ![image](https://github.com/withAI777/en_state_demo_video/blob/main/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87/win%E7%A8%8B%E5%BA%8F%E5%9B%BE%E7%89%87.jpg)
 
 ## 如何购买
