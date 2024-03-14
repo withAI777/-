@@ -21,7 +21,7 @@
 
 ## 如何购买
 #1 进入[收款码](https://github.com/withAI777/en_state_demo_video/tree/main/%E6%94%B6%E6%AC%BE%E7%A0%81)页面任选其一付款，注意备注任何内容方便核对，然后截图并在telegram上发给我，我会给你下载链接和教程文档，整个过程你是**完全匿名**的。<br>
-#2 或者，你也可以向我的地址转700个U：0xc7bdaaa4d5e91c29b8677fa6651261f2fee7a576，网络是ERC20。<br>
+#2 或者，你也可以向我的地址转700个U：`0xc7bdaaa4d5e91c29b8677fa6651261f2fee7a576`，网络是ERC20。<br>
 #3 你可以私聊我的telegram进行询问：`@cybermusk8`或[https://t.me/CyberMusk8](https://t.me/CyberMusk8)<br>
 #4 你也可以加入telegram群组，在群组里询问：[https://t.me/notonlyseo](https://t.me/notonlyseo)<br>
 
