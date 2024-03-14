@@ -6,18 +6,18 @@
 #1 仅以SDM项目的censor-Landing Page为例做演示，**实际可应用在任何项目上**，只要存在Landing Page系统和写作页面<br>
 #2 由于github文件大小限制，且麦的杂音太大，故暂时删除了视频中的音频，将于近期重录，目前可以看字幕<br>
 
-## 购前须知 -- 购买该程序后并不是完全的躺平就可以自动写并提交了
-#1 在准备工作中，你需要写一些模板，如果你想生成的文章质量足够的高，你还需要优化它们直到满足要求。<br>
-#2 你还需要下载一些必要的依赖程序。<br>
-#3 以上准备工作，购买后在“程序使用文档”里都有详细的教程，**只需要跟着做就行了**。<br>
-#4 本项目**只能写state的html lang=en**，如果要写小语种，需要在[交易所](https://www.yuque.com/g/u41475096/sxyaoc/ma44bz2n9ft34w7z/collaborator/join?token=e7JYbJs4XDYFujIj&source=doc_collaborator#)中额外购买其它项目<br>
-
 ## 购买后你可以获得什么？
 #1 **完善的售后**：除了获取详细的使用教程，你可以自由提出你的需求、反馈bug等
 ![image](https://github.com/withAI777/en_state_demo_video/blob/main/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87/%E7%9F%A5%E8%AF%86%E5%BA%93%E6%A6%82%E8%A7%88.jpg)
 #2 **简单的使用**：使用简单，做完准备工作后你只需要点击打包好的程序，根据提示填入一些内容就可以了
 ![image](https://github.com/withAI777/en_state_demo_video/blob/main/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87/win%E7%A8%8B%E5%BA%8F%E5%9B%BE%E7%89%87.jpg)
 #3 **强大的效率**：只要你想，一天提交3、4000篇都可以，7x24x365天的撰写、提交，机器是不会疲惫的
+
+## 购前须知 -- 购买该程序后并不是完全的躺平就可以自动写并提交了
+#1 在准备工作中，你需要写一些模板，如果你想生成的文章质量足够的高，你还需要优化它们直到满足要求。<br>
+#2 你还需要下载一些必要的依赖程序。<br>
+#3 以上准备工作，购买后在“程序使用文档”里都有详细的教程，**只需要跟着做就行了**。<br>
+#4 本项目**只能写state的html lang=en**，如果要写小语种，需要在[交易所](https://www.yuque.com/g/u41475096/sxyaoc/ma44bz2n9ft34w7z/collaborator/join?token=e7JYbJs4XDYFujIj&source=doc_collaborator#)中额外购买其它项目<br>
 
 ## 如何购买
 #1 进入[收款码](https://github.com/withAI777/en_state_demo_video/tree/main/%E6%94%B6%E6%AC%BE%E7%A0%81)页面任选其一付款，注意备注任何内容方便核对，然后截图并在telegram上发给我，我会给你下载链接和教程文档，整个过程你是**完全匿名**的。<br>
