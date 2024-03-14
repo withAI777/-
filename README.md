@@ -8,7 +8,7 @@
 #1 [这里](https://www.yuque.com/g/u41475096/sxyaoc/collaborator/join?token=oLI3sdKe7WgMn1er&source=book_collaborator#)会有一些免费项目，欢迎体验
 ![image](https://github.com/withAI777/en_state_demo_video/blob/cc34d8e3db35343c6d2a1abaf1e1f4c267b9cc4d/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87/%E4%BA%A4%E6%98%93%E6%89%80%E6%96%87%E6%A1%A3.jpg)
 
-## 关于项目演示，请查看“[自动写英语州的LandingPage演示视频.mp4](https://github.com/withAI777/en_state_demo_video/blob/main/%E8%87%AA%E5%8A%A8%E5%86%99%E8%8B%B1%E8%AF%AD%E5%B7%9E%E7%9A%84LandingPage%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mp4)”,由于github限制，请点击View raw下载查看
+## 关于项目演示，请查看“[自动写英语州的LandingPage演示视频.mp4](https://github.com/withAI777/en_state_demo_video/raw/main/%E8%87%AA%E5%8A%A8%E5%86%99%E8%8B%B1%E8%AF%AD%E5%B7%9E%E7%9A%84LandingPage%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mp4)”,由于github限制，请点击View raw下载查看
 #1 仅以sugar项目的Landing Page为例做演示，**实际可应用在任何项目上，包括你自己的网站**，只要存在Landing Page系统和写作页面<br>
 #2 由于github文件大小限制，且麦的杂音太大，故暂时删除了视频中的音频，将于近期重录，目前可以看字幕<br>
 #3 由于涉及项目隐私，因此视频部分内容打码处理，要观看高清版请telegram[私信我](https://t.me/CyberMusk8)
