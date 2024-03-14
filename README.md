@@ -20,13 +20,10 @@
 #3 **强大的效率**：只要你想，一天提交3、4000篇都可以，7*24*365天的撰写、提交，机器是不会疲惫的
 
 ## 如何购买
-#1 先扫描下方任意付款二维码，注意备注任何内容方便核对，然后截图并在telegram上发给我，我会给你下载链接和教程文档，整个过程你是**完全匿名**的。<br>
+#1 进入[收款码](https://github.com/withAI777/en_state_demo_video/tree/main/%E6%94%B6%E6%AC%BE%E7%A0%81)页面任选其一付款，注意备注任何内容方便核对，然后截图并在telegram上发给我，我会给你下载链接和教程文档，整个过程你是**完全匿名**的。<br>
 #2 你可以私聊我的telegram进行询问：`@cybermusk8`或`https://t.me/CyberMusk8`<br>
 #3 你也可以加入telegram群组，在群里询问：`https://t.me/notonlyseo`<br>
 
 ## 目前设定固定汇率7.1，因此700*7.1=4970
 #1 如果使用人数过多，我很难根据每个人不同的需求进行迭代和维护，因此限制前5人购买为700$，之后定价为1000$。<br>
 #2 虚拟产品，一经售出，恕不退
-
-![image](https://github.com/withAI777/-/blob/main/%E6%94%B6%E6%AC%BE%E7%A0%81/%E5%BE%AE%E4%BF%A1.jpg)
-![image](https://github.com/withAI777/-/blob/main/%E6%94%B6%E6%AC%BE%E7%A0%81/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg)
