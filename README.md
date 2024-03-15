@@ -28,6 +28,7 @@
 #2 你还需要下载一些必要的依赖程序。<br>
 #3 以上准备工作，购买后在“程序使用文档”里都有详细的教程，**只需要跟着做就行了**。<br>
 #4 本项目**只能写state的html lang=en**，如果要写小语种，需要在[交易所](https://www.yuque.com/g/u41475096/sxyaoc/ma44bz2n9ft34w7z/collaborator/join?token=e7JYbJs4XDYFujIj&source=doc_collaborator#)中额外购买其它项目<br>
+#5 本项目目前**只能写到h2标签**，不支持h3及以下的标签。
 
 ## 如何购买
 #1 进入[收款码](https://github.com/withAI777/en_state_demo_video/tree/main/%E6%94%B6%E6%AC%BE%E7%A0%81)页面任选其一付款，注意备注任何内容方便核对，然后截图并在telegram上发给我，我会给你下载链接和教程文档，整个过程你是**完全匿名**的。<br>
