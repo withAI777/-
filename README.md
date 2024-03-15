@@ -7,7 +7,7 @@
 # 将于2024-03-17上线一个体验程序，任何人都可以免费下载进行体验，查看生成的文章的质量
 
 # 请免费加入共创文档[交易所](https://www.yuque.com/g/u41475096/sxyaoc/collaborator/join?token=oLI3sdKe7WgMn1er&source=book_collaborator#)，任何人都可以自由上架、定价、购买对别人/对自己有用的任何东西，你可以免费赚取额外收入
-#1 由于语雀文档的限制，所以你必须**注册登录**才可以查看，但不用担心泄露隐私问题，因为它是**蚂蚁金服**旗下的文档知识库<br>
+#1 由于语雀文档的限制，所以你必须**注册登录**才可以查看，但不用担心泄露隐私，因为它是**蚂蚁金服**旗下的文档知识库<br>
 #2 [这里](https://www.yuque.com/g/u41475096/sxyaoc/collaborator/join?token=oLI3sdKe7WgMn1er&source=book_collaborator#)会有一些免费项目，欢迎体验
 ![image](https://github.com/withAI777/en_state_demo_video/blob/cc34d8e3db35343c6d2a1abaf1e1f4c267b9cc4d/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87/%E4%BA%A4%E6%98%93%E6%89%80%E6%96%87%E6%A1%A3.jpg)
 
