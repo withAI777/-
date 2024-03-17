@@ -4,7 +4,9 @@
 
 ****
 
-# 将于2024-03-17上线一个体验程序，任何人都可以免费下载进行体验，查看生成的文章的质量
+# 请下载体验程序进行体验
+#1 [点此下载压缩包](https://github.com/withAI777/en_state_demo_video/raw/master/%E5%86%99%E8%8B%B1%E8%AF%AD%E5%B7%9E%E7%9A%84Landing_Page%E6%BC%94%E7%A4%BA%E7%A8%8B%E5%BA%8F.zip)，解压到任意文件夹，点击exe程序即可运行程序<br>
+#2 解压后，请阅读“**README.md**”文件
 
 # 请免费加入共创文档[交易所](https://www.yuque.com/g/u41475096/sxyaoc/collaborator/join?token=oLI3sdKe7WgMn1er&source=book_collaborator#)，任何人都可以自由上架、定价、购买对别人/对自己有用的任何东西，你可以免费赚取额外收入
 #1 由于语雀文档的限制，所以你必须**注册登录**才可以查看，但不用担心泄露隐私，因为它是**蚂蚁金服**旗下的文档知识库，并且你可以使用**完全匿名的用户名**参与文档修改和发布<br>
