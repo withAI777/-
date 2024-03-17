@@ -7,7 +7,7 @@
 # 请下载体验程序进行体验
 #1 [点此下载压缩包](https://github.com/withAI777/en_state_demo_video/raw/master/%E5%86%99%E8%8B%B1%E8%AF%AD%E5%B7%9E%E7%9A%84Landing_Page%E6%BC%94%E7%A4%BA%E7%A8%8B%E5%BA%8F.zip)，解压到任意文件夹<br>
 #2 解压后，请阅读“**README.md**”文件<br>
-#3 解压后，点击exe程序即可运行程序
+#3 解压后，点击exe程序即可运行程序<br>
 #4 **请尊重知识版权，请不要对程序进行逆向或反编译等！**
 
 # 请免费加入共创文档[交易所](https://www.yuque.com/g/u41475096/sxyaoc/collaborator/join?token=oLI3sdKe7WgMn1er&source=book_collaborator#)，任何人都可以自由上架、定价、购买对别人/对自己有用的任何东西，你可以免费赚取额外收入
